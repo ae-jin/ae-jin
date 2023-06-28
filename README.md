@@ -1,19 +1,11 @@
-## Who am I ?
-* Seok Ae Jin
+## 🐰 Hello !
+
+## :computer: Develop Tech
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&amp;logo=SASS&amp;logoColor=white&amp;"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&amp;logo=JQuery&amp;logoColor=white&amp;"/> 
 
 
-<br/>
+## :art: Design Tech
 
-## Works history
- * 2022.02 ~ 2023.04 : EBI web agency (web design & publisher) 
-
-<br/>
-
-## My tech stack 📚
-
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-
-
-<br/>
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&amp;logo=Adobe Illustrator&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/XD-FF61F6?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white&amp;"/>
